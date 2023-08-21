@@ -1,8 +1,5 @@
 package example.myGreeting;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Greeting {
 
     private final long id;
